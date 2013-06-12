@@ -37,6 +37,7 @@ add_lunch_combo carbon_manta-userdebug
 add_lunch_combo carbon_maserati-userdebug
 add_lunch_combo carbon_n7000-userdebug
 add_lunch_combo carbon_n7100-userdebug
+add_lunch_combo carbon_p4wifi-userdebug
 add_lunch_combo carbon_quincyatt-userdebug
 add_lunch_combo carbon_quincytmo-userdebug
 add_lunch_combo carbon_skyrocket-userdebug
