@@ -44,7 +44,6 @@ PRODUCT_PACKAGES += \
     SunBeam \
     Superuser \
     su \
-    Torch \
     Trebuchet \
     VoicePlus \
     Wallpapers \
