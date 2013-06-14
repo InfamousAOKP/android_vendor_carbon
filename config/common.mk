@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     LockClock \
     NoiseField \
+    ParanoidWallpapers \
     PermissionsManager \
     PhaseBeam \
     PhotoTable \
