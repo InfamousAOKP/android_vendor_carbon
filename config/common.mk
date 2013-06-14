@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     SunBeam \
     Superuser \
     su \
-    Torch \
     VoicePlus \
     Wallpapers
 
