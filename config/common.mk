@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     CarbonFibers \
     Focal \
     CMFileManager \
+    DSPManager \
     Galaxy4 \
     HALO \
     LatinIME \
