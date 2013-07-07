@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
     Camera \
     CMFileManager \
     DashClock \
+    DSPManager \
     Galaxy4 \
     HALO \
     HoloSpiralWallpaper \
