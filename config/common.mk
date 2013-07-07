@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     Development \
     Focal \
     CMFileManager \
+    DSPManager \
     Galaxy4 \
     HALO \
     LatinIME \
