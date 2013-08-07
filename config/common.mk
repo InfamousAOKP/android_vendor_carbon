@@ -172,7 +172,7 @@ endif
 #Set Unofficial if no buildtype set (Buildtype should ONLY be set by Carbon Devs!)
 ifdef CARBON_BUILDTYPE
 else
-    CARBON_BUILDTYPE := MACKAY
+    CARBON_BUILDTYPE := MACKAY-JB3
     CARBON_VERSION_MAJOR :=
     CARBON_VERSION_MINOR :=
 endif
