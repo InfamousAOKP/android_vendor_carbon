@@ -44,10 +44,6 @@ PRODUCT_PACKAGES += \
     VoicePlus \
     Wallpapers
 
-# prebuilts
-PRODUCT_PACKAGES += \
-    GooManager
-
 # tools
 PRODUCT_PACKAGES += \
     CellBroadcastReceiver
