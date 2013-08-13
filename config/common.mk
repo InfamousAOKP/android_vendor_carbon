@@ -168,7 +168,7 @@ endif
 #Set Unofficial if no buildtype set (Buildtype should ONLY be set by Carbon Devs!)
 ifdef CARBON_BUILDTYPE
 else
-    CARBON_BUILDTYPE := MACKAY-JB3
+    CARBON_BUILDTYPE := Infamous-CARBON
     CARBON_VERSION_MAJOR :=
     CARBON_VERSION_MINOR :=
 endif
@@ -177,7 +177,7 @@ endif
 ifdef CARBON_RELEASE
     CARBON_VERSION := "CARBON-JB-v"$(CARBON_VERSION_MAJOR).$(CARBON_VERSION_MINOR)
 else
-    CARBON_VERSION := "CARBON-$(CARBON_BUILDTYPE)"-$(shell date +%Y%m%d)
+    CARBON_VERSION := "$(CARBON_BUILDTYPE)"-$(shell date +%Y%m%d)
 endif
 
 PRODUCT_PROPERTY_OVERRIDES += \
