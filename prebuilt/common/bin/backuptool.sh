@@ -5,7 +5,7 @@
 
 export C=/tmp/backupdir
 export S=/system
-export V=CARBON-MACKAY
+export V=Infamous-CARBON
 
 # Preserve /system/addon.d in /tmp/addon.d
 preserve_addon_d() {
